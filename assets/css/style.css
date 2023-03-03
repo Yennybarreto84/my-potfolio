@@ -147,7 +147,7 @@ img {
 .navbar__logo {
   display: flex;
   align-items: center;
-  column-gap: 2rem;
+  column-gap: .25rem;
   font-weight: var(--font-semi-bold);
   color: black;
 }
